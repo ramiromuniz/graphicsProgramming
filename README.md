@@ -3,7 +3,7 @@
 ## Project Overview
 This project that explores the world of **image processing**, **computer vision**, and **emotion detection** using the power of **p5.js** and **ml5.js**. It demonstrates how we can manipulate pixels to apply various filters, perform face detection, and even recognize emotions in real-time!
 
-### What's Inside? 🧐
+### What's Inside?
 - **Pixel Manipulation**: Discover how we can transform images by adjusting pixels to create effects like greyscale, blur, and even pixelation.
 - **Color Space Conversion**: Learn about the magic behind converting images from one color space to another, revealing different aspects of images that aren't visible in the original color space.
 - **Thresholding Techniques**: Explore how thresholding can highlight or hide certain features of an image based on color channels and intensity.
